@@ -10,7 +10,7 @@
 
 The **Cable-Driven Continuum Joint Motion Estimation (CD-CJME)** dataset is based on a flexible surgical robot developed by the School of Mechanical Engineering, Hefei University of Technology, which serves as the experimental platform. This robot features three degrees of freedom (**DOF**), including rotation, translation, and bending, making it suitable for research on continuum joints. The figure below illustrates the appearance and structure of the experimental prototype, providing insight into the design and layout of the device.
 
-<img src=".\img\\Experimental Prototype.png" alt="tiny" style="zoom:40%;" />
+<img src=".\img\\Experimental prototype.png" alt="tiny" style="zoom:40%;" />
 
 ## 2.Data Collection Setup
 
@@ -38,7 +38,7 @@ The dataset includes 16 variables representing the states of the  **Flexible Cab
 
 Below are the state characteristics of each feature under the unloaded condition:
 
-<img src=".\img\\data_feature.png" alt="large" style="zoom:200%;" />
+<img src=".\img\\Data_feature.png" alt="large" style="zoom:200%;" />
 
 ## 4.Contact
 

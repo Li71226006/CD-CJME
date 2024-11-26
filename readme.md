@@ -1,7 +1,7 @@
 ## CD-CJME
 
-![](.\img\logo.png)
 
+<img src=".\img\\logo.png" alt="tiny" style="zoom:80%;" />
 
 
 # Cable-Driven Continuum Joint Motion Estimation (CD-CJME) Dataset

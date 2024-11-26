@@ -1,6 +1,6 @@
 ## CD-CJME
 
-![](.\img\\logo.png)
+![](.\img\logo.png)
 
 
 

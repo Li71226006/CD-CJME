@@ -40,7 +40,9 @@ Below are the state characteristics of each feature under the unloaded condition
 
 <img src=".\img\\Data_feature.png" alt="large" style="zoom:200%;" />
 
-The corresponding data files are stored in the "data" folder. Inside, the "data0-15.mat" files store all the data, and "data.py" contains the code for data partitioning and preprocessing. In addition, the partitioned "trainData.mat", "validationData.mat", and "testData.mat" files are also provided.
+The corresponding data files are stored in the "data" folder. Inside, the "data0-15.mat" files contain all the raw data, and "data.py" includes the code for data partitioning and preprocessing. Additionally, the partitioned datasets—namely "trainData.mat", "validationData.mat", and "testData.mat"—are provided.
+
+*Please note: Due to copyright restrictions, only the input data corresponding to feature_column = [1, 2, 3, 4, 5, 6, 16] is provided.*
 
 ## 4.Contact
 
